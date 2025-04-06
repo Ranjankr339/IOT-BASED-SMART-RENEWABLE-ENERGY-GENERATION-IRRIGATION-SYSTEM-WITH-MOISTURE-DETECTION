@@ -1,0 +1,2 @@
+# IOT-BASED-SMART-RENEWABLE-ENERGY-GENERATION-IRRIGATION-SYSTEM-WITH-MOISTURE-DETECTION
+Developed an IoT-enabled smart irrigation system that integrates renewable energy sources (solar &amp; wind) with real-time soil moisture monitoring to optimize agricultural practices. The system leverages sensor networks, AI-driven decision-making, and remote monitoring to enhance efficiency, sustainability, and productivity in farming.
